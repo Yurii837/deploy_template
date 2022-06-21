@@ -8,3 +8,8 @@
     - pre-commit hook(unable to commit whith linter errors)
   - test*
   - deploy
+
+  ## Git
+  - commits
+  - branches (default: master|main)
+  - remotes (default: origin)
